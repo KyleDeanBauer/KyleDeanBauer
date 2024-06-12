@@ -1,1 +1,1 @@
-Mostly just here for Python and Diffusor Models
+Mostly here for Python and Diffusor Models
